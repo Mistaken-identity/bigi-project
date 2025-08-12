@@ -54,7 +54,7 @@ export const DELIVERY_LOCATIONS = {
   "Nairobi - North": [
     "Kasarani",
     "Roysambu",
-    "Zimmerman",
+    "Zimmerman", "Mirema", "Lumumba Drive".
     "Githurai 45",
     "Kahawa West",
     "Runda",
