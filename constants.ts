@@ -13,11 +13,11 @@ export const CATEGORIES = [
 
 export const WHATSAPP_NUMBER = "254791177106";
 export const INSTAGRAM_HANDLE = "bigi.kenya";
-export const FACEBOOK_HANDLE = "#"; // Placeholder handle
+export const FACEBOOK_HANDLE = "Bigikenya"; // Placeholder handle
 export const X_HANDLE = "#"; // Placeholder handle
 export const LINKEDIN_HANDLE = "#"; // Placeholder handle
-export const COMPANY_EMAIL = "hello@bigi.co.ke";
-export const CAREERS_EMAIL = "careers@bigi.co.ke";
+export const COMPANY_EMAIL = "bigikenya37@gmail.com";
+export const CAREERS_EMAIL = "bigikenya37@gmail.com";
 export const SHIPPING_COST = 0;
 
 export const DELIVERY_LOCATIONS = {
