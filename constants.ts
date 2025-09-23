@@ -11,7 +11,7 @@ export const CATEGORIES = [
   "Clothes",
 ];
 
-export const WHATSAPP_NUMBER = "254769259151";
+export const WHATSAPP_NUMBER = "254791177106";
 export const INSTAGRAM_HANDLE = "bigi.kenya";
 export const FACEBOOK_HANDLE = "#"; // Placeholder handle
 export const X_HANDLE = "#"; // Placeholder handle
