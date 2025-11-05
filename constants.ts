@@ -92,18 +92,18 @@ export const TESTIMONIALS: Testimonial[] = [
 export const TEAM_MEMBERS: TeamMember[] = [
     {
         name: "Shem Johns",
-        title: "Founder & CEO",
+        title: "Co-Founder & CEO",
         bio: "The Visionary. Shem started Bigi after a 3-week delivery wait for a spatula convinced him he could do better. He's the driving force behind our 'Buy It, Get It' promise, ensuring no one ever suffers a similar fate.",
         imageUrl: "https://i.pravatar.cc/300?u=shem-johns"
     },
     {
         name: "Anthony Emong'oluk",
-        title: "Chief Technology Officer",
+        title: "Co-Founder & CTO",
         bio: "The Architect. Ant speaks three languages: English, JavaScript, and Sarcasm. He turns coffee into clean, scalable code and believes any problem can be solved with a well-placed console.log(). His motto: 'It’s not a bug, it’s an undocumented feature.'",
         imageUrl: "https://i.pravatar.cc/300?u=anthony-emongoluk"
     },
     {
-        name: "Carlos Kirimo",
+        name: "Morice Charles",
         title: "Marketing Director",
         bio: "The Storyteller. Carlos crafts marketing campaigns that create genuine connections. He balances data-driven insights with creative flair, ensuring the Bigi story is heard, felt, and shared by our growing community.",
         imageUrl: "https://i.pravatar.cc/300?u=carlos-kirimo"
